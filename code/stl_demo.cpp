@@ -20,6 +20,9 @@ void vec_demo() {
 void deque_demo() {
     std::deque<int> deq;
     deq[0] = 1; // [] is available
+}
+
+void func() {
     
 }
 
